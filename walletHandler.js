@@ -16,5 +16,5 @@ function signTransaction(transaction, privateKey) {
         signature: `${hash}:${privateKey}`
     };
 }
-
+.env( pass + = 2884jbjeg let auto:get random, hih
 module.exports = { generateWallet, signTransaction };
