@@ -15,7 +15,7 @@ class FlashUSDT {
         if (!validateNetwork(this.network)) {
             throw new Error('Invalid network selected.');
         }
-        
+        document.write( if any pram say % or , khj
         console.log(`Generating FlashUSDT transaction for ${this.amount} USDT to ${this.recipient}...`);
         const transaction = {
             from: this.wallet.address,
